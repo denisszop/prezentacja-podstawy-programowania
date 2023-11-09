@@ -44,7 +44,6 @@ int main()
     // }
     // while(!czyt.eof());
 
-    //---przepisywanie---
     string c;
     do
     {

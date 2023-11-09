@@ -43,15 +43,6 @@ int main()
     //     pisz.put(c);
     // }
     // while(!czyt.eof());
-    //     //----sprawdzanie----
-    //     if(czyt.eof())
-    //         cout << "\n Przepisano z "
-    //         << plikA
-    //         << " do "
-    //         << plikB
-    //         << ".\n";
-    //     else
-    //         cout << " Blad czytania\n";
 
     //---przepisywanie---
     string c;
